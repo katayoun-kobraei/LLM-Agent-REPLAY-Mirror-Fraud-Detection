@@ -100,5 +100,14 @@ All runs are tracked in Langfuse at `https://challenges.reply.com/langfuse`.
 
 Each run generates a unique session ID in the format `Hashtag-<ULID>` that groups all traces from one pipeline execution. The dashboard shows token usage, latency, and cost per user investigation.
 
+---
 
+## Team
+
+| Name | GitHub |
+|------|--------|
+| Katayoon Kobraei | [@katayoon-kobraei](https://github.com/katayoon-kobraei) |
+| Yashar Kalantari | [@YasharKalantari](https://github.com/YasharKalantari) |
+| Farhad Norouzzadeh | [@Farhad-Norouzzadeh](https://github.com/Farhad-Norouzzadeh) |
+| Sadegh Ofoghi | [@itsSadegh](https://github.com/itsSadegh) |
 
